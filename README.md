@@ -1,4 +1,4 @@
-###commitmetns of ms903-github
+### commitmetns of ms903-github
 * added vis_graph.py, which visualizes scene graph  
 run `python vis_graph.py` after running evaluation code and you can get visualization results of scene graph generation.
 
