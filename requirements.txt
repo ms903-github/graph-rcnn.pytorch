@@ -8,3 +8,4 @@ easydict
 dill
 opencv-python
 pycocotools
+networkx
